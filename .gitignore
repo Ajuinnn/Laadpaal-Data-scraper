@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local scrape outputs can contain large Reddit exports.
+outputs/
+*.zip
+raw_items.jsonl
+items.csv
+analysis.json
+report.html
+report.md
+ai_handoff.md
+ai_handoff_manifest.json
+*_counts.csv
+*_chart.svg

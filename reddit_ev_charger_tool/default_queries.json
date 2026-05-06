@@ -1,0 +1,89 @@
+{
+  "subreddit_searches": [
+    {
+      "subreddit": "electricvehicles",
+      "queries": [
+        "public charger broken",
+        "charging station not working",
+        "charger payment failed",
+        "broken connector cable charger",
+        "Electrify America broken charger",
+        "charger out of service"
+      ]
+    },
+    {
+      "subreddit": "evcharging",
+      "queries": [
+        "public charger broken",
+        "charger offline",
+        "payment failed charger",
+        "connector broken",
+        "charging station repair"
+      ]
+    },
+    {
+      "subreddit": "ElectricVehiclesUK",
+      "queries": [
+        "public charger broken",
+        "charger not working",
+        "payment card declined charger",
+        "cable stolen charger",
+        "service station charger fault"
+      ]
+    },
+    {
+      "subreddit": "EVMobiliteit",
+      "queries": [
+        "publieke laadpaal kapot",
+        "laadpaal storing",
+        "laadpaal buiten werking",
+        "laadpas werkt niet",
+        "snellader storing"
+      ]
+    },
+    {
+      "subreddit": "belgium",
+      "queries": [
+        "laadpaal kapot",
+        "publieke laadpaal storing",
+        "laadpas werkt niet",
+        "elektrische auto publieke laadpaal"
+      ]
+    },
+    {
+      "subreddit": "Belgium2",
+      "queries": [
+        "laadpaal kapot",
+        "publieke laadpaal storing",
+        "laadpaal bezet",
+        "laadpaal vandalisme"
+      ]
+    },
+    {
+      "subreddit": "thenetherlands",
+      "queries": [
+        "laadpaal kapot",
+        "openbare laadpaal storing",
+        "laadpaal buiten werking",
+        "laadpaalklever"
+      ]
+    }
+  ],
+  "global_searches": [
+    "\"public EV charger\" broken",
+    "\"charging station\" \"payment failed\"",
+    "\"EV charger\" \"out of service\"",
+    "\"laadpaal\" \"kapot\"",
+    "\"publieke laadpaal\" \"storing\"",
+    "\"openbare laadpaal\" \"buiten werking\""
+  ],
+  "seed_urls": [
+    "https://www.reddit.com/r/ElectricVehiclesUK/comments/1r71qho/common_reasons_for_public_chargers_to_break/",
+    "https://www.reddit.com/r/electricvehicles/comments/16c7uk6/why_do_chargers_break/",
+    "https://www.reddit.com/r/evcharging/comments/17w6hv9/why_are_so_many_public_ev_chargers_broken/",
+    "https://www.reddit.com/r/electricvehicles/comments/10pkt4g/public_ev_charging_stations_how_often_are_they/",
+    "https://www.reddit.com/r/EVMobiliteit/comments/1pivg7h/waarom_lijkt_de_reparatie_van_publieke_laadpalen/",
+    "https://www.reddit.com/r/EVMobiliteit/comments/1qq1bmi/publieke_laadpaal_al_maanden_buiten_werking/",
+    "https://www.reddit.com/r/electricvehicles/comments/1krbm66/home_ev_charger_wallbox_nearly_started_house_fire/"
+  ]
+}
